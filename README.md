@@ -2,6 +2,7 @@
 
 A modular repository structure designed for building Claude Code projects
 with structured AI context, reusable skills, and automated development workflows.
+Inspired by: https://x.com/s_mohinii/status/2030714112418943116/photo/1
 
 ## Getting Started
 1. Clone the repository or chmod +x create-claude-code.sh and execute it
