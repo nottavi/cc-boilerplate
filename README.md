@@ -4,7 +4,7 @@ A modular repository structure designed for building Claude Code projects
 with structured AI context, reusable skills, and automated development workflows.
 
 ## Getting Started
-1. Clone the repository
+1. Clone the repository or chmod +x create-claude-code.sh and execute it
 2. Configure Claude settings in `.claude/settings.json`
 3. Define project context in `CLAUDE.md`
 4. Add reusable skills in `.claude/skills/`
